@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skewess/static/css/main.5b8b298e.css",
-    "main.js": "/skewess/static/js/main.dd85f256.js",
+    "main.css": "/skewess/static/css/main.8a980cd9.css",
+    "main.js": "/skewess/static/js/main.bd486127.js",
     "static/js/787.13a161d8.chunk.js": "/skewess/static/js/787.13a161d8.chunk.js",
     "static/media/contact.png": "/skewess/static/media/contact.1d76038789dbefe3bb92.png",
     "index.html": "/skewess/index.html",
-    "main.5b8b298e.css.map": "/skewess/static/css/main.5b8b298e.css.map",
-    "main.dd85f256.js.map": "/skewess/static/js/main.dd85f256.js.map",
+    "main.8a980cd9.css.map": "/skewess/static/css/main.8a980cd9.css.map",
+    "main.bd486127.js.map": "/skewess/static/js/main.bd486127.js.map",
     "787.13a161d8.chunk.js.map": "/skewess/static/js/787.13a161d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b8b298e.css",
-    "static/js/main.dd85f256.js"
+    "static/css/main.8a980cd9.css",
+    "static/js/main.bd486127.js"
   ]
 }
