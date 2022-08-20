@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.navbar-brand > img{
+    width: 100px;
+}
+
+
+.color-dark{
+    background-color: #a3eeee3c;
+}
+
+.color-white{
+    background-color: #cbfbfb !important;
+    padding: 1px 0px !important;
+}
+
+#nav .nav-item .nav-link{
+    color:black;
+    font-size: larger;
+    font-weight:500;
+}

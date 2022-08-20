@@ -1,0 +1,13 @@
+.card-img-top{
+    object-fit: contain;
+}
+
+.card{
+    text-align: center;
+    align-items: center;
+    
+}
+
+.card-text{
+    margin: auto;
+}

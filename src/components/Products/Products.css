@@ -1,0 +1,23 @@
+.product-card-group{
+    width: 60%;
+    margin: auto;
+    gap:100px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.our-products
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.our-products > h2{
+    margin-bottom: 0px;
+}
