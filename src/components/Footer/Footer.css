@@ -49,6 +49,9 @@ footer > p{
     margin-bottom: 0px !important;
 }
 
+.col-sm-4{
+    margin: auto !important;
+}
 
 @media screen and (max-width:600px) {
     
@@ -63,6 +66,7 @@ footer > p{
 
     .col-sm-4{
         margin-bottom:20px;
+        /* margin: auto; */
     }
 
     .platforms{

@@ -6,7 +6,7 @@ import './Navbar.css'
 const Navbar = () => {  
 
     return (
-        <nav className='navbar fixed-top text-white navbar-expand-lg color-white color-dark '>
+        <nav className='navbar sticky-top text-white navbar-expand-lg color-white color-dark '>
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
                     <img src="https://i.ibb.co/JznYQ4w/new22.png" alt="brand"></img>

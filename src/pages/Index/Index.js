@@ -50,10 +50,12 @@ const Index = () => {
                 
             <Products/>
 
-            <ContactUs/>
+           
 
             
             </div>
+
+            <ContactUs/>
 
            <Footer/>
         </>

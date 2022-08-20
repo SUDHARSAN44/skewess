@@ -22,7 +22,7 @@ const Footer = () =>{
             </div>
 
             <div className="platforms-col col-sm-4">
-                <ul className="platforms col">
+                <ul className="platformsx">
                     <li className="head">Platforms Supported</li>
                     <li>Android</li>
                     <li>IOS</li>
