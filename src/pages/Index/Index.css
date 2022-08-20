@@ -99,6 +99,13 @@ p{
 }
 
 
+@media screen and (max-width: 1350px)
+{
+    .what-we-offer{
+        width: 90%;
+    }
+}
+
 
 
 @media screen and (max-width: 1000px)

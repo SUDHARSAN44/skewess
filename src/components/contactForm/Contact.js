@@ -23,7 +23,7 @@ export default function ContactUs() {
     // <form ref={form} onSubmit={sendEmail}>
     <div className="container contact row" id="contact">
 
-      <div className="col m-auto con-addr">
+      <div className="col-sm-6 m-auto con-addr">
       <h1 className="mb-5">Contact Us</h1>
       
       <h5> Our Registered Address :</h5>
@@ -48,17 +48,25 @@ export default function ContactUs() {
       </div>
 
 
-      <div className="col">
+      <div className="col-sm-6">
         <br></br>
           <form>
+            <div>
+              <input type="text" name="user_name"  placeholder="Enter your Name" />
+            </div>
             
-            <input type="text" name="user_name"  placeholder="Enter your Name" />
+            <div>
+              <input type="email" name="user_email" placeholder="Email"/>  
+            </div>
             
-            <input type="email" name="user_email" placeholder="Email"/>
+            <div>
+              <textarea name="message " cols='23' rows='4' placeholder="Message"/>  
+            </div>
             
-            <textarea name="message " cols='23' rows='4' placeholder="Message"/>
+            <div>
+              <button type="submit">Send</button>  
+            </div>
             
-            <button type="submit">Send</button>
           </form>
         </div>
     </div>

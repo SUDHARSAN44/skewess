@@ -10,7 +10,7 @@
 
 .our-products
 {
-    width: 60%;
+    width: 64%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -20,8 +20,16 @@
     margin-top: 20px;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:1200px) 
+{
+    .our-products
+    {
+        width: 90% !important;
+    }
+}
+
+@media screen and (max-width:1000px) {
     .our-products{
-        width: 100%;
+        width: 100% !important;
     }
 }
